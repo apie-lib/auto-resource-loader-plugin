@@ -1,0 +1,1 @@
+# auto-resource-loader-plugin
